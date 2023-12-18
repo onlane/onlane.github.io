@@ -1,0 +1,9 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://deequoique.github.io/</loc><lastmod>2023-12-18T22:12:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://deequoique.github.io/posts/</loc><lastmod>2023-12-18T22:12:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://deequoique.github.io/%E8%BD%A8%E9%81%93/</loc><lastmod>2023-12-18T22:12:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://deequoique.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://deequoique.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
