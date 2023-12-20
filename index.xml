@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>宇宙星星基地</title>
+        <title>宇宙星星档案馆</title>
         <link>https://onlane.github.io/</link>
-        <description>宇宙星星基地</description>
+        <description>宇宙星星档案馆</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>puppy_road@163.com (Deequoique)</managingEditor>
             <webMaster>puppy_road@163.com (Deequoique)</webMaster><lastBuildDate>Wed, 20 Dec 2023 13:19:00 &#43;0800</lastBuildDate>
             <atom:link href="https://onlane.github.io/index.xml" rel="self" type="application/rss+xml" />
