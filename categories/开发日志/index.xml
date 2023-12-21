@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>开发日志 - Category - 宇宙星星档案馆</title>
+        <link>https://onlane.github.io/categories/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</link>
+        <description>开发日志 - Category - 宇宙星星档案馆</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>puppy_road@163.com (Deequoique)</managingEditor>
+            <webMaster>puppy_road@163.com (Deequoique)</webMaster><lastBuildDate>Thu, 21 Dec 2023 12:42:14 &#43;0800</lastBuildDate><atom:link href="https://onlane.github.io/categories/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/" rel="self" type="application/rss+xml" /><item>
+    <title>档案馆使用手册</title>
+    <link>https://onlane.github.io/%E6%A1%A3%E6%A1%88%E9%A6%86%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</link>
+    <pubDate>Thu, 21 Dec 2023 12:42:14 &#43;0800</pubDate>
+    <author>deequoique</author>
+    <guid>https://onlane.github.io/%E6%A1%A3%E6%A1%88%E9%A6%86%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</guid>
+    <description><![CDATA[介绍 本站为宇宙星星基地群友产出归档点，欢迎大家参观游玩～ 宇宙星星基地由岁宴老师（bilibili）组织创建，是一个以infj为主要群体的养老]]></description>
+</item>
+</channel>
+</rss>
