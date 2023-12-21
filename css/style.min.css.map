@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/deequoique/blog/mysite",
+	"sourceRoot": "/Users/deequoique/blog/starSite",
 	"sources": [
 		"themes/Loveit/assets/css/style.scss",
 		"themes/Loveit/assets/lib/normalize/normalize.css",
